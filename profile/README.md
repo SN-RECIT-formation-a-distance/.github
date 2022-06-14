@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-Link to download our latest package : https://github.com/SN-RECIT-formation-a-distance/.github/wiki
+Latest package avilable for download : https://github.com/SN-RECIT-formation-a-distance/.github/wiki
