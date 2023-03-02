@@ -1,4 +1,4 @@
-## Latest package available for download : https://github.com/SN-RECIT-formation-a-distance/.github/wiki
+## Latest package available for [download](https://github.com/SN-RECIT-formation-a-distance/.github/wiki)
 
 ## "Service national du RÉCIT" is there for you!
 The Service national du RÉCIT de la Formation à distance was set up in November 2018, following the deployment of the Digital Action Plan in Education and Higher Education of the Ministry of Education and Higher Education of Quebec (MEES ).
