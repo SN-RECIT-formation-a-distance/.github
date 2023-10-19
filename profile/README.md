@@ -9,6 +9,6 @@ Le Service national du RÉCIT de la Formation à distance/services éducatifs à
 
 Depuis la rentrée scolaire 2023, le personnel technique n’est plus associé aussi directement à l’équipe du RÉCITFAD/SED pour la création des plugiciels. La partie technique est désormais assurée par le [CSSBE](https://cssbe.gouv.qc.ca/) qui finance les développements et en assure la pérennité.
 
-# Téléchargement
-[Get the latest package available for download](https://github.com/SN-RECIT-formation-a-distance/.github/wiki)
+# Download/Téléchargement
+[Get the latest package/Obtenir les plugiciels les plus récents](https://github.com/SN-RECIT-formation-a-distance/.github/wiki)
 
